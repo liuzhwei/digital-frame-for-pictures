@@ -1,0 +1,124 @@
+layer3.lo: layer3.c config.h global.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/stdlib.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/features.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/predefs.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/cdefs.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/wordsize.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/gnu/stubs.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.1/include/stddef.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/types.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/types.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/typesizes.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/time.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/endian.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/endian.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/byteswap.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/select.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/select.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/sigset.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/time.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/sysmacros.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/pthreadtypes.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/alloca.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/string.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/xlocale.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/string.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/string2.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/assert.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.1/include-fixed/limits.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.1/include-fixed/syslimits.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/limits.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/posix1_lim.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/local_lim.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/linux/limits.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/posix2_lim.h \
+ fixed.h bit.h stream.h frame.h timer.h huffman.h layer3.h rq_table.dat \
+ imdct_s.dat
+
+config.h:
+
+global.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/stdlib.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/features.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/predefs.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/cdefs.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/wordsize.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/gnu/stubs.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.1/include/stddef.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/types.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/types.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/typesizes.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/time.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/endian.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/endian.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/byteswap.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/select.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/select.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/sigset.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/time.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/sysmacros.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/pthreadtypes.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/alloca.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/string.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/xlocale.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/string.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/string2.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/assert.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.1/include-fixed/limits.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.1/include-fixed/syslimits.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/limits.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/posix1_lim.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/local_lim.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/linux/limits.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/posix2_lim.h:
+
+fixed.h:
+
+bit.h:
+
+stream.h:
+
+frame.h:
+
+timer.h:
+
+huffman.h:
+
+layer3.h:
+
+rq_table.dat:
+
+imdct_s.dat:

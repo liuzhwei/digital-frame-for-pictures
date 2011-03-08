@@ -1,0 +1,44 @@
+bit.lo: bit.c config.h global.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.1/include-fixed/limits.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.1/include-fixed/syslimits.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/limits.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/features.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/predefs.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/cdefs.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/wordsize.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/gnu/stubs.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/posix1_lim.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/local_lim.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/linux/limits.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/posix2_lim.h \
+ bit.h
+
+config.h:
+
+global.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.1/include-fixed/limits.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.1/include-fixed/syslimits.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/limits.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/features.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/predefs.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/cdefs.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/wordsize.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/gnu/stubs.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/posix1_lim.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/local_lim.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/linux/limits.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/posix2_lim.h:
+
+bit.h:

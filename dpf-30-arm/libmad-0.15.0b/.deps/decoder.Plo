@@ -1,0 +1,158 @@
+decoder.lo: decoder.c config.h global.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/types.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/features.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/predefs.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/cdefs.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/wordsize.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/gnu/stubs.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/types.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/typesizes.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/time.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.1/include/stddef.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/endian.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/endian.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/byteswap.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/select.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/select.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/sigset.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/time.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/sysmacros.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/pthreadtypes.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/wait.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/signal.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/signum.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/siginfo.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/sigaction.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/sigcontext.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/asm/sigcontext.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/sigstack.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/sigthread.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/resource.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/resource.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/waitflags.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/waitstatus.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/unistd.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/posix_opt.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/confname.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/getopt.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/fcntl.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/fcntl.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/stdlib.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/alloca.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/errno.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/errno.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/linux/errno.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/asm/errno.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/asm-generic/errno.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/asm-generic/errno-base.h \
+ stream.h bit.h frame.h fixed.h timer.h synth.h decoder.h
+
+config.h:
+
+global.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/types.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/features.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/predefs.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/cdefs.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/wordsize.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/gnu/stubs.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/types.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/typesizes.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/time.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.1/include/stddef.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/endian.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/endian.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/byteswap.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/select.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/select.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/sigset.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/time.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/sysmacros.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/pthreadtypes.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/wait.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/signal.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/signum.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/siginfo.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/sigaction.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/sigcontext.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/asm/sigcontext.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/sigstack.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/sigthread.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/resource.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/resource.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/waitflags.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/waitstatus.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/unistd.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/posix_opt.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/confname.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/getopt.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/fcntl.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/fcntl.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/stdlib.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/alloca.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/errno.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/errno.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/linux/errno.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/asm/errno.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/asm-generic/errno.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/asm-generic/errno-base.h:
+
+stream.h:
+
+bit.h:
+
+frame.h:
+
+fixed.h:
+
+timer.h:
+
+synth.h:
+
+decoder.h:

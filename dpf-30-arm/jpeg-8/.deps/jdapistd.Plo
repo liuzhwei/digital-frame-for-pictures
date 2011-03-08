@@ -1,0 +1,113 @@
+jdapistd.lo: jdapistd.c jinclude.h jconfig.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.1/include/stddef.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/stdlib.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/features.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/predefs.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/cdefs.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/wordsize.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/gnu/stubs.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/types.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/types.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/typesizes.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/time.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/endian.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/endian.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/byteswap.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/select.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/select.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/sigset.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/time.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/sysmacros.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/pthreadtypes.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/alloca.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/stdio.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/libio.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/_G_config.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/wchar.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.1/include/stdarg.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/stdio_lim.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/sys_errlist.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/stdio.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/string.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/xlocale.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/string.h \
+ /home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/string2.h \
+ jpeglib.h jmorecfg.h jpegint.h jerror.h
+
+jinclude.h:
+
+jconfig.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.1/include/stddef.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/stdlib.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/features.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/predefs.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/cdefs.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/wordsize.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/gnu/stubs.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/types.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/types.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/typesizes.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/time.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/endian.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/endian.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/byteswap.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/select.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/select.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/sigset.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/time.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/sysmacros.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/pthreadtypes.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/alloca.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/stdio.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/libio.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/_G_config.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/wchar.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.1/include/stdarg.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/stdio_lim.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/sys_errlist.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/stdio.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/string.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/xlocale.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/string.h:
+
+/home/liu/usr/local/arm/4.4.1/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/string2.h:
+
+jpeglib.h:
+
+jmorecfg.h:
+
+jpegint.h:
+
+jerror.h:
